@@ -11,7 +11,7 @@
   
   <p align="center">
     ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=HaoyuLee&theme=radical) 
-   <p/>
+   </p>
 
 </p>
 
